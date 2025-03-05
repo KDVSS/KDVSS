@@ -1,7 +1,5 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=KDVSS&label=Profile%20Views&color=blue&style=flat)
 
-<img src="https://www.google-analytics.com/collect?v=1&t=pageview&tid=G-5XDLBKHBTE&cid=555&dp=/github-profile" width="1" height="1" />
-
 <h1 align="center">Hello World! 🤝 My name is <b>Dhana</b></h1>
 
  📖 About Me :man_technologist:
