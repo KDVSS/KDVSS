@@ -2,6 +2,9 @@
 
 <h1 align="center">Hello World! 🤝 My name is <b>Dhana</b></h1>
 
+[![GitHub followers](https://img.shields.io/github/followers/KDVSS?label=Follow&style=social)](https://github.com/KDVSS)
+
+
 📖 **About Me** 👨‍💻  
 
 I am a Software Developer with a strong foundation in Embedded Systems and Cutting-Edge Technologies. I recently graduated with a Master’s degree in Electrical Engineering from Mid Sweden University, where I specialized in software development for embedded systems, real-time applications, and system optimization. This comprehensive background enables me to develop high-performance, reliable, and scalable software solutions for embedded applications across various industries.
