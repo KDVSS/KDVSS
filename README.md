@@ -18,9 +18,6 @@ Outside work, I enjoy hanging out with friends, attending tech meetups, explorin
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=KDVSS&show_icons=true&theme=tokyonight&hide_border=true" width="450"/>
-    </td>
-    <td>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KDVSS&layout=compact&langs_count=8&card_width=400&theme=tokyonight&hide_border=true" width="400"/>
     </td>
   </tr>
